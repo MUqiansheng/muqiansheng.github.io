@@ -1,0 +1,176 @@
+#apDiv2 {
+	position: absolute;
+	width: 120px;
+	height: 40;
+	z-index: 2;
+	left: 428px;
+	top: 997px;
+}
+.bd2 {
+	background-image: url(../image/road.jpg);
+	margin: auto;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100%;
+    background-size: cover;
+}
+
+#apDiv1 {
+	position: absolute;
+	width: 120;
+	height: 40;
+	z-index: 1;
+	left: 919px;
+	top: 672px;
+}
+.tb1 {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 0px;
+	top: 0px;
+}
+.tb2 {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tb4 {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tb3 {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tb4 {
+	width: 1000px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tb5 {
+	width: 450px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tb6 {
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tb7 {
+	width: 1000px;
+}
+.tb8 {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../image/BGCL.jpg);
+}
+.tb9 {
+	width: 600px;
+}
+
+
+
+.juzhong {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	background-image: url(../image/Tou.jpg);
+	height: 400px;
+}
+.wz {
+	color: #000;
+	text-align: center;
+	width: 800px;
+}
+.zt1 {
+	color: #FFF;
+}
+.zt2 {
+	color: #88D2F7;
+	text-align: center;
+	font-size: 12px;
+	text-decoration: none;
+}
+.zt3 {
+	font-size: 36px;
+	color: #FFF;
+}
+.zt4 {
+	font-size: 66px;
+	color: #FFF;
+}
+.zt6 {
+	font-size: 10px;
+	color: #FFF;
+}
+.zt7 {
+	font-size: 28px;
+	color: #000;
+	text-align: center;
+	text-decoration: none;
+}
+.zt8 {
+	font-size: 13px;
+}
+.zt9 {
+	font-size: 18px;
+	color: #000;
+}
+.zt10 {
+	font-size: 13px;
+	color: #000;
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	border: thin dashed #CCC;
+}
+.zt11 {
+	font-size: 16px;
+	color: #0F0;
+	font-weight: bold;
+}
+
+
+
+
+
+.nbg1 {
+	height: 30px;
+}
+.nbg2 {
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+}
+.tp1 {
+	height: 298px;
+	width: 500px;
+}
+.tp2 {
+	height: 300px;
+	width: 500px;
+}
+.background {
+	background-color: #F8F8FF;
+}
+.background2 {
+	background-color: #cce5ff;
+}
+
+
+.duiqi {
+	text-align: center;
+}
+.tb1 tr td .juzhong tr td .nbg2 tr .zt2 .zt2:hover {
+	color: #3F0;
+}
